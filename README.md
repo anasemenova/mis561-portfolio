@@ -5,4 +5,5 @@ Portfolio of projects from my Data Visualization course. This will include the c
 
 2. Account Profitability and Service Tiers. The business question: where is Southwest Office Solutions losing the most money on its accounts, and which single change, in tiering, cost to serve, or discounting, should the VP of Sales make for FY2026? If I were to do this again, I'd build the Top N filter and context filter earlier in the process instead of layering it on last, since it changed how a couple of my other filters behaved. Here is the link to Tableau visuals: https://public.tableau.com/app/profile/anastasiia.semenova2944/viz/FlexAssignment4/DesignJustification
 
-3. Introduction to Power BI course from DataCamp, completed 9/26/2026. https://public.tableau.com/app/profile/anastasiia.semenova2944/viz/PowerBITrainingCertifications_17904864317360/PowerBIStory
+3. Introduction to Power BI course from DataCamp, completed 9/26/2026. Link to my Tableau profile: https://public.tableau.com/app/profile/anastasiia.semenova2944/viz/PowerBITrainingCertifications_17904864317360/PowerBIStory
+Live link to the website: https://www.datacamp.com/completed/statement-of-accomplishment/course/0032de6f5a8b17c11553cbf6ed622970fd3866cf
