@@ -21,3 +21,16 @@ Link to my Tableau profile: https://public.tableau.com/app/profile/anastasiia.se
 6. Advancing in Excel & Tableau - Pt. 3: Which non-contactless cards should Bear Down Bank replace early this quarter, and what will it cost? [Card Portfolio Review - Contactless Readiness](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924526611570/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I did it again, I would show the batch split by card type (debit, prepaid, credit) so Card Operations could plan vendor orders for each.
 
 7. Advancing in Excel & Tableau – Pt. 4: Card Growth Analysis – Wildcat Rewards Offer: Which group of existing Bear Down Bank customers should receive the Wildcat Rewards pilot mailing, and how many qualify under Credit Risk's guardrails at the 670 FICO cutoff? [View Tableau workbook](https://public.tableau.com/app/profile/anastasiia.semenova2944/viz/CardGrowthAnalysisWildcatRewardsOffer_17930565170890/ExploratoryDashboard). If I did it again, I would test whether the five pilot states stay on top at other FICO cutoffs, so the recommendation holds if Credit Risk moves the cutoff before launch.
+
+8. **Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace the 440 non-contactless cards that expire after March 2027 early, for $3,520, and let the other 1,253 renew on schedule.
+
+[Work sample (PDF)](https://github.com/anasemenova/mis561-portfolio/blob/main/adobe/semenova-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:e818cd69-9cd4-44ad-be7b-69050175f68b?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Design choice: I used a single split bar with direct labels instead of the monthly expiration timeline from my earlier analysis, because Renee's decision is one budget line, and the bar shows at a glance that 1,253 of her 1,693 non-contactless cards are handled by normal renewal before she spends anything. I cut the empty space below the footer by shortening the page from 2,000 to 1,560 pixels, so the page ends where the message ends and the $3,520 recommendation reads as a complete brief.
+
+Training completed: Nov 1, 2026
+
+AI use: Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai. Used Nov 1–2, 2026.
+
