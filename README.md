@@ -22,7 +22,9 @@ Link to my Tableau profile: https://public.tableau.com/app/profile/anastasiia.se
 
 7. Advancing in Excel & Tableau – Pt. 4: Card Growth Analysis – Wildcat Rewards Offer: Which group of existing Bear Down Bank customers should receive the Wildcat Rewards pilot mailing, and how many qualify under Credit Risk's guardrails at the 670 FICO cutoff? [View Tableau workbook](https://public.tableau.com/app/profile/anastasiia.semenova2944/viz/CardGrowthAnalysisWildcatRewardsOffer_17930565170890/ExploratoryDashboard). If I did it again, I would test whether the five pilot states stay on top at other FICO cutoffs, so the recommendation holds if Credit Risk moves the cutoff before launch.
 
-8. **Nov 2, 2026 · Data Storytelling with Adobe Express**
+––––––––––––––––––––––
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
 
 Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace the 440 non-contactless cards that expire after March 2027 early, for $3,520, and let the other 1,253 renew on schedule.
 
