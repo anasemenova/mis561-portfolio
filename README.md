@@ -34,3 +34,16 @@ Training completed: Nov 1, 2026
 
 AI use: Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai. Used Nov 1–2, 2026. 
 
+__________________
+
+**November 17, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve a six-week first phase to replace 440 non-contactless cards early for $3,520.
+
+[Pitch deck (PDF)](https://github.com/anasemenova/mis561-portfolio/blob/main/adobe/semenova-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:d608307b-cf0e-5366-8571-f8a583140ce1?invite=true&accept=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: "Why spend anything when these cards will renew on their own?" Slide 2 answers it: waiting leaves the last of the 440 late-expiring cards unable to tap until September 2030, and slide 6 shows the $3,520 batch covers only those cards, not the 1,253 that renew by March 2027.
+
+AI use: Claude (Anthropic), Claude Opus 5.5, Nov 9 to 17, 2026: helped draft slide titles and copy, built a reference mockup of the deck, and played the executive to identify the toughest objection. No AI-generated images or content in the deck.
+
+Training completed: November 9, 2026
