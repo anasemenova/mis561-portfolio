@@ -32,5 +32,5 @@ Design choice: I used a single split bar with direct labels instead of the month
 
 Training completed: Nov 1, 2026
 
-AI use: Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai. Used Nov 1–2, 2026.
+AI use: Anthropic. (2026). Claude (Opus 5.5) [Large language model]. https://claude.ai. Used Nov 1–2, 2026. 
 
