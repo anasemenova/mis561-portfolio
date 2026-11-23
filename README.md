@@ -47,3 +47,15 @@ Toughest objection: "Why spend anything when these cards will renew on their own
 AI use: Claude (Anthropic), Claude Opus 5.5, Nov 9 to 17, 2026: helped draft slide titles and copy, built a reference mockup of the deck, and played the executive to identify the toughest objection. No AI-generated images or content in the deck.
 
 Training completed: November 9, 2026
+
+____________________
+
+**November 23, 2026 · Brand Standard Application in Tableau**
+
+Rebranded a public IMDb movie dashboard, then built a brief for Alicia Grant, Manager of Advertiser Partnerships: do family-friendly movies draw enough engagement to support their own ad package?
+
+[Tableau workbook](https://public.tableau.com/app/profile/anastasiia.semenova2944/viz/DataPlusMovies2000-2023_17954125335240/ExploratoryDashboard)
+
+One thing I'd change: I would check the data's actual year range before writing any text, since the dataset ends in 2022, not 2023, and I had to correct it in several places.
+
+AI use: Claude (Anthropic) helped check dashboard text against the IMDb writing rules, verify the analysis numbers, and draft the Design Overview, November 2026.
